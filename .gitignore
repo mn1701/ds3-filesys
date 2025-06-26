@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.DS_Store
+*.sqlite3
+*.sqlite3-*
+server/data/
+build/
+*.ds3
+*.ds3.lock
+*.tsbuildinfo
